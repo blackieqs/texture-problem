@@ -1,0 +1,16 @@
+[
+{
+  "modid": "spaceone",
+  "name": "Space One",
+  "description": "Working on it.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Quigg"],
+  "credits": "The Forge and FML guys for making this shit happen",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
